@@ -6,7 +6,8 @@ function Contact() {
       <div className='md:grid md:grid-cols-2 bg-base rounded-[20px] py-2 px-2'>
       <div className=' text-center'>
         <h2 className='text-2xl pb-3'>Ponerse en Contacto</h2>
-        <p>Soy muy accesible y me encantaría hablar contigo. No dude en llamar, enviarme un correo electrónico. Sígueme en las redes sociales o simplemente completa el formulario de consulta.</p>
+        <p className='px-5'>Soy muy accesible y me encantaría hablar contigo. No dude en llamar, enviarme un correo electrónico. Sígueme en las redes sociales o simplemente completa el formulario de consulta.</p>
+        <img src="puno.jpg" alt="" className='border border-app-grayLight  px-5 py-3'/>
       </div>
       <div className=' text-center'>
         <h2 className='text-2xl pb-3'>Enviame un mensaje</h2>

@@ -6,37 +6,37 @@ const Uno = () => {
         [
         {
         title: 'Rick and Morty',
-        image: '/public/rick.png',
+        image: 'rick.png',
         url: 'https://rick-and-morty-3e6f5a.netlify.app',
         git: 'https://github.com/Yess244545/Rick-and-morty-app.git',
         },
         {
         title: 'Pokedex',
-        image: '/public/poke.png',
+        image: 'poke.png',
         url: 'https://pokedex-pithivier-bba578.netlify.app/',
         git: 'https://github.com/Yess244545/Pokedexs.git',
         },
         {
         title: 'Weather App',
-        image: '/public/weather.png',
+        image: 'weather.png',
         url: 'https://wheather-app-yes938dcd.netlify.app/',
         git: 'https://github.com/Yess244545/WheatherApp.git',
         },
         {
             title: 'Rick and Morty',
-            image: '/public/rick.png',
+            image: 'rick.png',
             },
             {
             title: 'Pokedex',
-            image: '/public/poke.png',
+            image: 'poke.png',
             },
             {
             title: 'Pokedex',
-            image: '/public/poke.png',
+            image: 'poke.png',
             },
             {
                 title: 'Pokedex',
-                image: '/public/poke.png',
+                image: 'poke.png',
                 },
     ]
     )

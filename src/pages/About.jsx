@@ -11,7 +11,7 @@ function About(props) {
       </div>
       <div className='md:grid md:grid-cols-2 text-start py-5 gap-4 '>
         <div className='flex flex-wrap '>
-          <img src="/public/puno.jpg" alt="" className='border border-app-grayLight shadow-lg' />
+          <img src="puno.jpg" alt="" className='border border-app-grayLight shadow-lg' />
         </div>
         <div>
           <h1 className='text-2xl py-3 font-semibold'>Desarrollador full stack</h1>
@@ -36,18 +36,19 @@ function About(props) {
           <h1 className='text-5xl py-3 font-semibold'>Habilidades</h1>
         </div>
         <div className='flex gap-3 place-content-center flex-wrap'>
-          <img src="/public/javascript.png" alt="" className='border-2 rounded-full'  />
-          <img src="/public/css.png" alt="" className='border-2 rounded-full' />
-          <img src="/public/react.png" alt="" className='border-2 rounded-full' />
-          <img src="/public/vit.png" alt="" className='border-2 rounded-full' />
-          <img src="/public/vc.png" alt="" className='border-2 rounded-full' />
-          <img src="/public/node.png" alt="" className='border-2 rounded-full' />
-          <img src="/public/git.png" alt="" className='border-2 rounded-full' />
-          <img src="/public/figma.png" alt="" className='border-2 rounded-full' />
-          <img src="/public/next.png" alt="" className='border-2 rounded-full' />
-          <img src="/public/postg.png" alt="" className='border-2 rounded-full' />
+          <img src="javascript.png" alt="" className='border-2 rounded-full'  />
+          <img src="css.png" alt="" className='border-2 rounded-full' />
+          <img src="react.png" alt="" className='border-2 rounded-full' />
+          <img src="vit.png" alt="" className='border-2 rounded-full' />
+          <img src="vc.png" alt="" className='border-2 rounded-full' />
+          <img src="node.png" alt="" className='border-2 rounded-full' />
+          <img src="git.png" alt="" className='border-2 rounded-full' />
+          <img src="figma.png" alt="" className='border-2 rounded-full' />
+          <img src="next.png" alt="" className='border-2 rounded-full' />
+          <img src="postg.png" alt="" className='border-2 rounded-full' />
         </div>
       </div>
+      
     </div>
   )
 }

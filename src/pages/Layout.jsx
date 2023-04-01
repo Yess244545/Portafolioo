@@ -9,9 +9,9 @@ function Layout() {
         <div className='flex items-center flex-shrink-0 text-white mr-6 lg:mr-72'>
             {/*-------REDES SOCIALES------- */}
             <div className='flex flex-wrap gap-2'>
-                    <a href="https://pe.linkedin.com/in/yessenia-medina-ticona-82915a259" target="_blank" ><img src="/public/Linkedin.png" className=" contrast-200 " alt="tailus logo" width="48" height="48" /></a>
-                    <a href="https://github.com/Yess244545" target="_blank" ><img src="/public/GitHub.png" className=" contrast-200  " alt="tailus logo" width="48" height="48" /></a>
-                    <a href="https://www.instagram.com/yessy_yex1/" target="_blank"><img src="/public/Instagram.png" className=" contrast-200  " alt="tailus logo" width="48" height="48" /></a>
+                    <a href="https://pe.linkedin.com/in/yessenia-medina-ticona-82915a259" target="_blank" ><img src="linkedin.png" className=" contrast-200 " alt="tailus logo" width="48" height="48" /></a>
+                    <a href="https://github.com/Yess244545" target="_blank" ><img src="gitHub.png" className=" contrast-200  " alt="tailus logo" width="48" height="48" /></a>
+                    <a href="https://www.instagram.com/yessy_yex1/" target="_blank"><img src="instagram.png" className=" contrast-200  " alt="tailus logo" width="48" height="48" /></a>
             </div>
         </div>
         {/*----------LINKS------- */}
