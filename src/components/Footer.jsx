@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-        <footer className='bg-font-base text-orange-50 px-[70px] py-[30px] font-cantora absolute bottom-0 w-full '>
+        <footer className='bg-font-base text-orange-50 px-[70px] py-[30px] font-cantora absolute w-full '>
         <div className='grid justify-items-auto grid-cols-2 pb-3' >
             <div className=' '>
                 <h3 className='pb-2 text-xl font-medium'>Yessenia Medina</h3>
