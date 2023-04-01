@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.links-active {
+    @apply  w-full  absolute ml-auto mr-auto top-[18%] left-0 right-0 text-center text-2xl flex-col flex
+    bg-yellow-600  h-[70%]  z-[-1] rounded-bl-[90%] ease-out duration-300 pt-48;
+    }
+.links-ac {
+    @apply bg-red-600
+    relative top-[-2px]  left-[5px];
+}
+
+.link{
+    @apply bg-cyan-700 ml-auto mr-auto text-center lg:flex-initial max-lg:hidden;
+}
+.a{
+    @apply text-4xl block;
+}
