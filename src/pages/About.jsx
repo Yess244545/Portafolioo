@@ -11,7 +11,7 @@ function About(props) {
       </div>
       <div className='md:grid md:grid-cols-2 text-start py-5 gap-4 '>
         <div className='flex flex-wrap '>
-          <img src="/public/puno.jpg" alt="" className='border border-app-grayLight shadow-lg' />
+          <img src="./public/puno.jpg" alt="" className='border border-app-grayLight shadow-lg' />
         </div>
         <div>
           <h1 className='text-2xl py-3 font-semibold'>Desarrollador full stack</h1>
