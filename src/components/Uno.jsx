@@ -23,16 +23,22 @@ const Uno = () => {
         git: 'https://github.com/Yess244545/WheatherApp.git',
         },
         {
-            title: 'Rick and Morty',
-            image: 'rick.png',
+            title: 'E-commerce',
+            image: 'ecommerce.png',
+            url: 'https://dainty-dango-4a223c.netlify.app',
+            git: '',
             },
             {
-            title: 'Pokedex',
-            image: 'poke.png',
+            title: 'Crud de usuarios',
+            image: 'crud.png',
+            url: 'https://crud-usersy-1db36.netlify.app/',
+            git: '',
             },
             {
-            title: 'Pokedex',
-            image: 'poke.png',
+            title: 'Portafolio',
+            image: 'portafolio.png',
+            url: 'https://yessenia-medina-03db8d.netlify.app',
+            git: '',
             },
             {
                 title: 'Pokedex',

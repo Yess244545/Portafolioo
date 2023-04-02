@@ -2,7 +2,7 @@ import React from 'react'
 
 const Dos = (props) => {
   return (
-    <div className=' flex-1 pb-5'>
+    <div className=' flex-1 pb-5 lg:px-10'>
       
         <div className='border border-app-grayLight shadow-lg  text-center bg-base '>
             <div className=''>
