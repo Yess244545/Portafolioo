@@ -3,7 +3,7 @@ import {Link, Outlet} from "react-router-dom"
 
 function Layout() {
     const [isOpen, setIsOpen] = useState(false);
-  return (
+    return (
     <div>
     <nav className="flex items-center justify-between flex-wrap p-6 bg-button font-cantora sticky top-0">
         <div className='flex items-center flex-shrink-0 text-white mr-6 lg:mr-72'>
